@@ -11,7 +11,7 @@ The goal is to strengthen my problem-solving skills and become well-prepared for
 - **Strings**
 - **Linked Lists**
 - **Stacks and Queues**
-- **Trees**
+- **Trees**(#trees)
 - **Graphs**
 - **Dynamic Programming**
 - **Sorting and Searching**
