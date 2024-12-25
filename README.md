@@ -27,7 +27,7 @@ The goal is to strengthen my problem-solving skills and become well-prepared for
 |--------------------------|---------------------|--------------------|----------------|
 | Arrays                   | 0                  | Easy, Medium       | 0            |
 | Linked Lists             | 0                  | Easy, Medium       | 0            |
-| Trees                    | 0                 | Medium, Hard        | 0            |
+| Trees                    | 1                  | Medium, Hard       | 0           |
 | Dynamic Programming      | 0                  | Medium, Hard       | 0            |
 
 ---
